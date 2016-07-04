@@ -6,7 +6,7 @@
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "ABOUT YOU, CUTIE!": "Well, basically I am a robot dog.\nI love walks by the beach and my favourite composer is Mozart.\nOh, I also love to bite furniture, specially if it´s new.\nWant a few more info about me or learn about Pedro? %[About you!](postback:about_you) %[Learn about Pedro](postback:learn_about_pedro)",
     "LEARN ABOUT PEDRO": "Pedro is a super motivated professional, with a lot of experience in analytics. He has just graduated from his MBA degree.",
-    "ABOUT YOU!": "Well, as I am a robot, most people think I run on batteries...\nbut actually I love sushi. Well, that´s all I´ve got about me ;)\n%[Cool,now about Pedro](postback:learn_about_pedro)",
+    "ABOUT YOU!": "Well, as I am a robot, most people think I run on batteries...\nbut actually I love sushi. Well, that´s all I´ve got about me.%[Cool,now about Pedro](postback:learn_about_pedro)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
