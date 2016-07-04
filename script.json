@@ -1,7 +1,7 @@
 {
     "HI": "Hi there!\nMy name is Honey Pie, I´m Pedro´s Dog Bot.\n![honeypie](https://raw.githubusercontent.com/pedroartur/my-dog-bot/master/img/frenchbulldog.jpg)\nWant to know more about me or learn about Pedro? %[About you, cutie!](postback:here_for_you) %[Learn about Pedro](postback:learn_about_pedro)",
     "HELLO": "Hi there!\nMy name is Honey Pie, I´m Pedro´s Dog Bot.\n![honeypie](https://raw.githubusercontent.com/pedroartur/my-dog-bot/master/img/frenchbulldog.jpg)\nWant to know more about me or learn about Pedro? %[About you, cutie!](postback:here_for_you) %[Learn about Pedro](postback:learn_about_pedro)",
-    "CONNECT": "I'm glad we chatted! When you are ready you can always talk to Pedro.%[LinkedIn](https://www.linkedin.com/in/pedroartur) %[Twitter](https://twitter.com/pedroartur1984) %[Facebook](https://www.facebook.com/Pedroartur10)",
+    "TALK TO PEDRO": "I'm glad we chatted! When you are ready you can always talk to Pedro.%[LinkedIn](https://www.linkedin.com/in/pedroartur) %[Twitter](https://twitter.com/pedroartur1984) %[Facebook](https://www.facebook.com/Pedroartur10)",
     "TELL HIM": "Let's tweet @ Pedro so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Pedro](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, I love you too!",
     "LOVE YOU": "Awh, I love you too!",
@@ -13,7 +13,7 @@
     "EDUCATION": "Pedro holds a Bachelor degree in Business Administration & Economics and an MBA degree from Esade Business School, ranked as one of the top 5 MBAs in Europe and top 20 in the World.",
     "INTERESTING FACTS": "Pedro has lived in 3 countries, USA, Brazil and Spain and speaks fluent English, Portuguese and Spanish.%[One more fact](postback:one_more_fact)",
     "ONE MORE FACT": "Pedro loves innovative ideas. He built me over a couple of hours after reading about ChatBots on an internet forum!%[Give me another one](postback:another_fact)",
-    "GIVE ME ANOTHER ONE": "Pedro is also highly analytical and has expertise in Excel, Financial Modelling, ROI calculations, budgeting and forecasting.",
+    "GIVE ME ANOTHER ONE": "Pedro is also highly analytical and has expertise in Excel, Financial Modelling, ROI calculations, budgeting and forecasting.%[talk to pedro](postback:talk_to_pedro)",
     "BYE": "See you later!",
     "GOODBYE": "See you later!",
     "CONNECT ME": "",
