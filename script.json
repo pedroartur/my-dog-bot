@@ -1,6 +1,6 @@
 {
     "HELLO": "Hi there!\nMy name is Honey Pie, I´m Pedro´s Dog Bot. I can give you some info about him.\n![esther](https://raw.githubusercontent.com/pedroartur/my-dog-bot/master/img/frenchbulldog.jpg)\nWant to know more about me or learn about Pedro? %[About you, cutie!](postback:here_for_you) %[Learn about Pedro](postback:learn_about_pedro)",
-    "CHANGE": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "CHANGE": "Hey, I'm so glad you set EstherBot up! Do you want to tell Estr that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HIM": "Let's tweet @ Pedro so he knows we´re chatting. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "ABOUT YOU, CUTIE!": "Well, basically I am a robot dog.\nI love walks by the beach and my favourite composer is Mozart.\nOh, I also love to bite furniture, specially if it´s new.\nWant a few more info about me or learn about Pedro? %[About you!](postback:about_you) %[Learn about Pedro](postback:learn_about_pedro)",
