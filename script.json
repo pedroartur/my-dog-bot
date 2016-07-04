@@ -1,7 +1,8 @@
 {
     "HI": "Hi there!\nMy name is Honey Pie. I´m Pedro´s Robot Dog.\n![honeypie](https://raw.githubusercontent.com/pedroartur/my-dog-bot/master/img/frenchbulldog.jpg)\nWant to know more about me or learn about Pedro? %[About you, cutie!](postback:here_for_you) %[Learn about Pedro](postback:learn_about_pedro)",
     "HELLO": "Hi there!\nMy name is Honey Pie. I´m Pedro´s Robot Dog.\n![honeypie](https://raw.githubusercontent.com/pedroartur/my-dog-bot/master/img/frenchbulldog.jpg)\nWant to know more about me or learn about Pedro? %[About you, cutie!](postback:here_for_you) %[Learn about Pedro](postback:learn_about_pedro)",
-    "TALK TO PEDRO": "I'm glad we chatted! When you are ready you can always talk to Pedro.%[LinkedIn](https://www.linkedin.com/in/pedroartur) %[Twitter](https://twitter.com/pedroartur1984) %[Phone and Email](+34 653 337977 and pedroartur.pereira@alumni.esade.edu)",
+    "TALK TO PEDRO": "I'm glad we chatted! When you are ready you can always talk to Pedro.%[LinkedIn](https://www.linkedin.com/in/pedroartur) %[Twitter](https://twitter.com/pedroartur1984) %[Back to Menu](postback:back_to_menu)",
+    "BACK TO MENU": "I can tell you a bunch of stuff about Pedro.\n![pedro](https://raw.githubusercontent.com/pedroartur/my-dog-bot/master/img/Pedro%20Pereira.jpg)\nLet me know what’s interesting to you.%[Career](postback:career) %[Education](postback:education) %[Interesting Facts](postback:interesting_facts)",
     "EMAIL": "Write me at pedroartur.pereira@alumni.esade.edu",
     "E-MAIL": "Write me at pedroartur.pereira@alumni.esade.edu",
     "PHONE": "Call me at +34 653 337977 (Spanish number)",
