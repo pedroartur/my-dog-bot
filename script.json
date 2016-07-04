@@ -1,7 +1,7 @@
 {
     "HI": "Hi there!\nMy name is Honey Pie, I´m Pedro´s Dog Bot.\n![honeypie](https://raw.githubusercontent.com/pedroartur/my-dog-bot/master/img/frenchbulldog.jpg)\nWant to know more about me or learn about Pedro? %[About you, cutie!](postback:here_for_you) %[Learn about Pedro](postback:learn_about_pedro)",
     "HELLO": "Hi there!\nMy name is Honey Pie, I´m Pedro´s Dog Bot.\n![honeypie](https://raw.githubusercontent.com/pedroartur/my-dog-bot/master/img/frenchbulldog.jpg)\nWant to know more about me or learn about Pedro? %[About you, cutie!](postback:here_for_you) %[Learn about Pedro](postback:learn_about_pedro)",
-    "CONNECT": "I'm glad we chatted! When you are ready you can always talk to Pedro.%[LinkedIn](postback:linkedin) %[Twitter](postback:twitter) %[Facebook](postback:facebook)",
+    "CONNECT": "I'm glad we chatted! When you are ready you can always talk to Pedro.%[LinkedIn](https://www.linkedin.com/in/pedroartur) %[Twitter](https://twitter.com/pedroartur1984) %[Facebook](https://www.facebook.com/Pedroartur10)",
     "TELL HIM": "Let's tweet @ Pedro so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Pedro](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, I love you too!",
     "LOVE YOU": "Awh, I love you too!",
