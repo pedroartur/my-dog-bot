@@ -3,7 +3,7 @@
     "CHANGE": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HIM": "Let's tweet @ Pedro so he knows we´re chatting. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "ABOUT YOU, CUTIE!": "Well, basically I am a robot dog. I love walks by the beach and my favourite composer is Mozart. Oh, I also love to bite furniture, specially if it´s new.",
+    "ABOUT YOU, CUTIE!": "Well, basically I am a robot dog.\nI love walks by the beach and my favourite composer is Mozart.\nOh, I also love to bite furniture, specially if it´s new.",
     "LEARN ABOUT PEDRO": "Pedro is a super motivated professional, with a lot of experience in analytics. He has just graduated from his MBA degree",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
