@@ -1,7 +1,10 @@
 {
-    "HELLO": "Hi there!\nMy name is Honey Pie, I´m Pedro´s Dog Bot. I can give you some info about him.\n![esther](https://raw.githubusercontent.com/pedroartur/my-dog-bot/master/img/frenchbulldog.jpg)\nWant to know more about me or learn about Pedro? %[About you, cutie!](postback:here_for_the_bot) %[Learn about Pedro](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hi there!\nMy name is Honey Pie, I´m Pedro´s Dog Bot. I can give you some info about him.\n![esther](https://raw.githubusercontent.com/pedroartur/my-dog-bot/master/img/frenchbulldog.jpg)\nWant to know more about me or learn about Pedro? %[About you, cutie!](postback:here_for_you) %[Learn about Pedro](postback:learn_about_pedro) %[One random fact!](postback:random_fact)",
     "CHANGE": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
     "TELL HIM": "Let's tweet @ Pedro so he knows we´re chatting. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HERE FOR YOU": "Well, basically I am a robot dog. I love walks by the beach and my favourite composer is Mozart. Oh, I also love to bite furniture, specially if it´s new",
+    "LEARN ABOUT PEDRO": "Pedro is a super motivated professional, with a lot of experience in analytics. He has just graduated from his MBA degree",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
